@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+}
+
+.header {
+  background-image: url(/users/jamisonkester/desktop/broadway/resources/images/the-flatiron-building.png);
+  font-family: Helvetica; sans-serif;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 a:link {
+  font-size: 18px;
+  color: white;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Helvetica; sans-serif;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+  font-family: Helvetica; sans-serif;
+}
+h5 {
+  font-size: 14px;
+  font-family: Helvetica; sans-serif;
+}
+
+.designed {
+  background-image: url(/users/jamisonkester/desktop/broadway/resources/images/the-flatiron-building.png);
+  font-family: Helvetica; sans-serif;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
